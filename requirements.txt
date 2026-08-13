@@ -1,0 +1,8 @@
+pyzx>=0.10.5
+torch>=2.0
+torch-geometric>=2.5
+numpy
+gymnasium
+matplotlib
+pandas
+tqdm
