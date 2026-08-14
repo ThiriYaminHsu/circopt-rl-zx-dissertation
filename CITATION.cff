@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite both this project and the original paper it builds on."
+title: "Structured vs. Random Training Data for RL-Based ZX-Calculus Circuit Optimization"
+type: software
+authors: [{family-names: "Hsu", given-names: "Thiri Yamin", alias: "Tori"}]
+date-released: 2026-08-14
+references:
+  - {type: article, title: "Reinforcement Learning Based Quantum Circuit Optimization via ZX-Calculus", authors: [{family-names: "Riu", given-names: "Jordi"}, {family-names: "Nogue", given-names: "Jan"}, {family-names: "Vilaplana", given-names: "Gerard"}, {family-names: "Garcia-Saez", given-names: "Artur"}, {family-names: "Estarellas", given-names: "Marta P."}], journal: "Quantum", volume: 9, year: 2025, url: "https://arxiv.org/abs/2312.11597"}
+  - {type: software, title: "Circopt-RL-ZXCalc", authors: [{name: "qilimanjaro-tech"}], url: "https://github.com/qilimanjaro-tech/Circopt-RL-ZXCalc"}
