@@ -1,0 +1,5 @@
+# Placeholder so this directory is tracked by git.
+#
+# Unlike logs/ and checkpoints/, this folder is NOT gitignored -- commit small,
+# final-report figures here directly (e.g. training_curves.png, comparison_barplot.png,
+# adder_scaling.png from Sections 8-12 of the dissertation notebook).
