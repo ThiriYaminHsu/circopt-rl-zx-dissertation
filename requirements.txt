@@ -4,5 +4,6 @@ torch-geometric>=2.5
 numpy
 gymnasium
 matplotlib
+seaborn
 pandas
 tqdm
